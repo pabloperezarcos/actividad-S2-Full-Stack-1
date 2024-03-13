@@ -8,6 +8,7 @@ public class Peliculas {
     private String genero;
     private String sinopsis;
 
+    //Constructor
     public Peliculas(int id, String titulo, int anno, String director, String genero, String sinopsis){
         this.id = id;
         this.titulo = titulo;
