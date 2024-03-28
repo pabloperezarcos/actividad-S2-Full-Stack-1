@@ -8,7 +8,7 @@ import semana2.actividad.service.PeliculasService;
 
 import java.util.List;
 import java.util.Optional;
-
+//Pablo
 @RestController
 @RequestMapping("/peliculas")
 public class PeliculasController {
